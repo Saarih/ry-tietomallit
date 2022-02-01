@@ -11,6 +11,6 @@ Sivustolla kuvattujen tietomallien ensisijainen sovelluskohde on [Rakennetyn ymp
 
 Tietomallien kehittämisestä ja niiden hallinnasta vastaa [ympäristöministeriö](https://ym.fi), ja tämän verkkosivuston ylläpidosta [Suomen ympäristökeskus](https://www.syke.fi/).
 
-{% include common/note.html content="Rakennetun ympäristön tietomallit -sivusto on vielä keskeneräinen, ensimmäinen versio valmistuu vuoden 2021 loppuun mennessä." %}
+{% include common/note.html content="Rakennetun ympäristön tietomallit -sivusto on vielä keskeneräinen, ensimmäinen versio valmistuu vuoden 2022 alun aikana." %}
 
 
